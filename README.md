@@ -1,2 +1,2 @@
 # Melbourne-Housing-Snapshot
-Prediction house prices in Melbourne.
+Prediction houses prices in Melbourne.
